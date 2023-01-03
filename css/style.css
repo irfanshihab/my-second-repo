@@ -1,4 +1,10 @@
 .gittu {
     background-color: gray;
     border: 5px solid black;
+    text-align: center;
+    padding: 15px;
+    margin: 20px 10% 0px 10%;
+}
+.gittu h3{
+ color: azure;
 }
